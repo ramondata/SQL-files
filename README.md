@@ -1,2 +1,2 @@
 # SQL files to study
-Arquivos d códigos SQL diversos para treino
+Arquivos de códigos SQL diversos que treinei ou usei para treino.
